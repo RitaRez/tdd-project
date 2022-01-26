@@ -1,0 +1,2 @@
+1) Uma diferença é que o teste de unidade verifica se pequenos módulos ou funções estão se comportando de maneira esperada, por sua vez o teste funcional verifica se uma parte do sistema já em funcionamento cumpre seus requisitos.
+2) Geralmente um comportamento da aplicação que será testado com apenas um teste de funcionalidade é formado por código que é testado por múltiplos teste de unidade, logo é possível ver em um comportamento da aplicação uma relação de muitos pra um nos testes de unidade e funcionais respectivamente.
