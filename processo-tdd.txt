@@ -1,0 +1,7 @@
+(1) Inicialmente será desenvolvido um teste funcional, se este falhar escreveremos um teste unitário. 
+    (2) No caso de falha deste segundo teste, escreveremos um código minimo.
+        O teste unitário será executado novamente e voltamos em (2).
+    Quando o teste unitário passar, iremos avaliar se este necessita de refatoração, escrevemos o código mínimo para a refatoração caso seja necessário e retornamos ao inicio ciclo (2).
+Rodamos o teste funcional e iteramos no ciclo (1) até que este passe. 
+Verificamos se precisamos de refatorações no código e se sim, escrevemos o código mínimo dessa refatoração e voltamos ao ciclo (1)
+
